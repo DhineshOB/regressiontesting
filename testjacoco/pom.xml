@@ -56,7 +56,7 @@
                 <!-- Sets the path to the file which contains the execution data. -->
                 <dataFile>$/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results/jacoco.exec</dataFile>
                 <!-- Sets the output directory for the code coverage report. -->
-                <outputDirectory>home/dob/apache-tomcat-7.0.54/webapps/jenkins/results</outputDirectory>
+                <outputDirectory>$home/dob/apache-tomcat-7.0.54/webapps/jenkins/results</outputDirectory>
             </configuration>
         </execution>
     </executions>
