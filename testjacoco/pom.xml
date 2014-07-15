@@ -19,7 +19,7 @@
 <plugin>
     <groupId>org.jacoco</groupId>
 	<artifactId>jacoco-maven-plugin</artifactId>
-	<version>0.6.3.201306030806</version>
+	<version>0.7.2-SNAPSHOT</version>
 	<executions>
 		<execution>
 			<id>default-prepare-agent</id>
@@ -35,8 +35,6 @@
 			</goals>
 			<dataFile>/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results/jacocoagent.exec</dataFile>
 			<outputDirectory>/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results-output</outputDirectory> 	
-		
-		
 		</execution>
 	</executions>
 </plugin>
