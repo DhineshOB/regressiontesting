@@ -28,14 +28,18 @@
 			</goals>
 		</execution>
 		<execution>
-			<id>default-report</id>
-			<phase>prepare-package</phase>
-			<goals>
-			<goal>report</goal>
-			</goals>
-			<dataFile>/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results/jacocoagent.exec</dataFile>
-			<outputDirectory>/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results-output</outputDirectory> 	
-		</execution>
+            <id>default-report</id>
+            <phase>prepare-package</phase>
+            <goals>
+                <goal>report</goal>
+            </goals>
+            <configuration>
+                <!-- Sets the path to the file which contains the execution data. -->
+                <dataFile>$/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results/jacoco.exe</dataFile>
+                <!-- Sets the output directory for the code coverage report. -->
+                <outputDirectory>$/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results-output</outputDirectory>
+            </configuration>
+        </execution>
 	</executions>
 </plugin>
 </plugins>
