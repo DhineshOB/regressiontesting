@@ -32,11 +32,11 @@
 			<phase>prepare-package</phase>
 			<goals>
 			<goal>report</goal>
-			<configuration>
+			</goals>
 			<dataFile>/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results/jacocoagent.exec</dataFile>
 			<outputDirectory>/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results-output</outputDirectory> 	
-			</configuration>
-			</goals>
+		
+		
 		</execution>
 	</executions>
 </plugin>
