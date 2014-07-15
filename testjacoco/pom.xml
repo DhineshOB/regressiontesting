@@ -39,7 +39,7 @@
                     Sets the name of the property containing the settings
                     for JaCoCo runtime agent.
                 -->
-                <propertyName>failsafeArgLine</propertyName>
+                <propertyName>java -javaagent:/home/dob/apache-tomcat-7.0.54/webapps/jenkins/WEB-INF/lib/jacocoagent.jar=destfile=/home/dob/apache-tomcat-7.0.54/webapps/jenkins/results/jacoco.exec,output=file</propertyName>
             </configuration>
         </execution>
         <!--
