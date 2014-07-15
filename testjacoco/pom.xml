@@ -68,13 +68,10 @@
     <version>2.15</version>
     <configuration>
         <!-- Sets the VM argument line used when unit tests are run. -->
-        <argLine>${surefireArgLine}</argLine>
+        <argLine>-javaagent:/home/dob/apache-tomcat-7.0.54/webapps/jenkins/WEB-INF/lib/jacocoagent.jar</argLine>
         <!-- Skips unit tests if the value of skip.unit.tests property is true -->
         <skipTests>${skip.unit.tests}</skipTests>
-        <!-- Excludes integration tests when unit tests are run. -->
-        <excludes>
-            <exclude>**/IT*.java</exclude>
-        </excludes>
+        
     </configuration>
 </plugin>
     
