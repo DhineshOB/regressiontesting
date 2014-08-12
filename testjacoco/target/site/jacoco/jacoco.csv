@@ -1,6 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-testjacoco,default,sampleTest,0,20,0,0,0,7,0,2,0,2
-testjacoco,default,sampletest,17,0,0,0,6,0,2,0,2,0
-testjacoco,default,sample,31,11,4,0,11,5,4,3,2,3
-testjacoco,package2,sample3,13,0,2,0,5,0,3,0,2,0
-testjacoco,pack1,sample2,13,0,2,0,5,0,3,0,2,0
