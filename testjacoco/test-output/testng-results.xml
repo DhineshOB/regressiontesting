@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28" started-at="2014-07-14T18:51:38Z" finished-at="2014-07-14T18:51:38Z">
+  <suite name="Default suite" duration-ms="29" started-at="2014-08-12T18:59:17Z" finished-at="2014-08-12T18:59:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28" started-at="2014-07-14T18:51:38Z" finished-at="2014-07-14T18:51:38Z">
-      <class name="sampletest">
-        <test-method status="PASS" signature="selection()[pri:0, instance:sampletest@184e19a1]" name="selection" duration-ms="17" started-at="2014-07-14T11:51:38Z" finished-at="2014-07-14T11:51:38Z">
+    <test name="Default test" duration-ms="29" started-at="2014-08-12T18:59:17Z" finished-at="2014-08-12T18:59:17Z">
+      <class name="modtest1">
+        <test-method status="PASS" signature="selection()[pri:0, instance:modtest1@4364958d]" name="selection" duration-ms="17" started-at="2014-08-12T11:59:17Z" finished-at="2014-08-12T11:59:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selection -->
-      </class> <!-- sampletest -->
+      </class> <!-- modtest1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

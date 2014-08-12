@@ -1,6 +1,6 @@
 
 
-public class sample {
+public class mod {
 
 	public String method1()
 	{
@@ -30,7 +30,7 @@ public class sample {
 	public static void main(String args[])
 	{
 		int a=10;
-		sample sam = new sample();
+		mod sam = new mod();
 		if(a==10)
 		sam.method1();
 		else if(a==20)
