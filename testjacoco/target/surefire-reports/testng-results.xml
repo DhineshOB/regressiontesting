@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="124" started-at="2014-08-13T11:27:28Z" finished-at="2014-08-13T11:27:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="124" started-at="2014-08-13T11:27:28Z" finished-at="2014-08-13T11:27:28Z">
+      <class name="regression2.Mod2Test">
+        <test-method status="PASS" signature="selection()[pri:0, instance:regression2.Mod2Test@29ae5edf]" name="selection" duration-ms="18" started-at="2014-08-13T11:27:28Z" finished-at="2014-08-13T11:27:28Z">
+        </test-method>
+      </class>
+      <class name="regression3.Mod3Test">
+        <test-method status="PASS" signature="selection()[pri:0, instance:regression3.Mod3Test@6e3be05c]" name="selection" duration-ms="2" started-at="2014-08-13T11:27:28Z" finished-at="2014-08-13T11:27:28Z">
+        </test-method>
+      </class>
+      <class name="regression1.Mod1Test">
+        <test-method status="PASS" signature="selection()[pri:0, instance:regression1.Mod1Test@1d06f08e]" name="selection" duration-ms="28" started-at="2014-08-13T11:27:28Z" finished-at="2014-08-13T11:27:28Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
