@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="159" started-at="2014-08-13T14:36:18Z" finished-at="2014-08-13T14:36:18Z">
+  <suite name="Command line suite" duration-ms="130" started-at="2014-08-13T15:21:32Z" finished-at="2014-08-13T15:21:32Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="159" started-at="2014-08-13T14:36:18Z" finished-at="2014-08-13T14:36:18Z">
+    <test name="Command line test" duration-ms="130" started-at="2014-08-13T15:21:32Z" finished-at="2014-08-13T15:21:32Z">
       <class name="regression2.Mod2Test">
-        <test-method status="PASS" signature="selection()[pri:0, instance:regression2.Mod2Test@28b6483]" name="selection" duration-ms="8" started-at="2014-08-13T14:36:18Z" finished-at="2014-08-13T14:36:18Z">
+        <test-method status="PASS" signature="selection()[pri:0, instance:regression2.Mod2Test@29ae5edf]" name="selection" duration-ms="6" started-at="2014-08-13T15:21:32Z" finished-at="2014-08-13T15:21:32Z">
         </test-method>
       </class>
       <class name="regression3.Mod3Test">
-        <test-method status="PASS" signature="selection()[pri:0, instance:regression3.Mod3Test@608e14b7]" name="selection" duration-ms="2" started-at="2014-08-13T14:36:18Z" finished-at="2014-08-13T14:36:18Z">
+        <test-method status="PASS" signature="selection()[pri:0, instance:regression3.Mod3Test@6e3be05c]" name="selection" duration-ms="0" started-at="2014-08-13T15:21:32Z" finished-at="2014-08-13T15:21:32Z">
         </test-method>
       </class>
       <class name="regression1.Mod1Test">
-        <test-method status="PASS" signature="selection()[pri:0, instance:regression1.Mod1Test@329b0985]" name="selection" duration-ms="62" started-at="2014-08-13T14:36:18Z" finished-at="2014-08-13T14:36:18Z">
+        <test-method status="PASS" signature="selection()[pri:0, instance:regression1.Mod1Test@1d06f08e]" name="selection" duration-ms="50" started-at="2014-08-13T15:21:32Z" finished-at="2014-08-13T15:21:32Z">
         </test-method>
       </class>
     </test>
