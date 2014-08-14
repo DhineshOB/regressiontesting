@@ -49,9 +49,6 @@ public class Mod2 {
 
 	}
 
-	private static void System.out.println(int i) {
-		// TODO Auto-generated method stub
-		
-	}
+
 
 }
