@@ -41,8 +41,17 @@ public class Mod2 {
 		sam.method2();
 		else
 		sam.method3();
+		for(int i=3;i>0;i--)
+		{
+			System.out.println(i);
+		}
 		System.out.println("End of Exe");
 
+	}
+
+	private static void System.out.println(int i) {
+		// TODO Auto-generated method stub
+		
 	}
 
 }
